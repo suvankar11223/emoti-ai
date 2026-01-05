@@ -1,0 +1,9 @@
+ollama==0.5.1
+PyMuPDF
+python-docx
+textblob
+fastapi
+uvicorn
+pydantic
+rich
+streamlit
